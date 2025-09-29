@@ -18,8 +18,8 @@ To simulate the **Address Resolution Protocol (ARP)** and **Reverse Address Reso
 
 ## 👨‍💻 DEVELOPED BY
 
-#### Name: **ARUNRAJ R** 
-#### Reg No: **212224110006**
+#### Name: **Harsha Dharshini** 
+#### Reg No: **212224230089**
 
 ## 🔁 ALGORITHMS
 
